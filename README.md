@@ -46,8 +46,8 @@
 ## Output:
 <img width="1046" height="522" alt="image" src="https://github.com/user-attachments/assets/5469aa30-bda0-43cc-ada1-146de461ad27" />
 
-### Name:Rheya e
-### Register Number:212225040334
+### Name:hassini k
+### Register Number:212225040122
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
